@@ -26,6 +26,6 @@
 
 ## Tips：
 
-> 源码收费，+v：godxiaolong，价格不定
+> paper收费，+v：godxiaolong，价格不定
 
 paper全文23000多个字，可预览，关于系统截图以及文档截图在仓库文件中。
